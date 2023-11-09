@@ -1,8 +1,4 @@
-CEKLISTER RESOLUSI
-- Belajar GIT sampai tuntas
-- Perdalam pengetahuan HTML
-- Perdalam pengetahuan CSS
-- Perdalam pengetahuan Javascrip
-- Belajar lagi NodeJS
-- Belajar lagi ReactJS
-- Belajar NextJS
+BELAJAR NODEJS DIMANA
+- WPU
+- ProgramerZamanNow
+- Dea Arfrizal
